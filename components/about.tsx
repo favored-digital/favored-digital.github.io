@@ -64,7 +64,7 @@ export function About() {
                 Tiana Horn
               </h3>
               <p className="text-sm text-muted-foreground mb-4">
-                Lead Developer & Founder
+                Lead Developer & Cofounder
               </p>
               <p className="text-muted-foreground leading-relaxed">
                 With over 7 years of experience in software engineering and web development, I specialize 
