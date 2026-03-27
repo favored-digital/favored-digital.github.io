@@ -20,7 +20,7 @@ export function Hero() {
             </div>
 
             <p className="text-lg text-muted-foreground leading-relaxed max-w-lg">
-              I craft custom websites that drive results. With 7 years of experience 
+              I craft custom websites that drive results. With 7 years of software development experience 
               across e-commerce, non-profit, government, and wedding industries, 
               I bring your vision to life with precision and creativity.
             </p>

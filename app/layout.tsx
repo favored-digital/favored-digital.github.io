@@ -16,23 +16,22 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: 'favored.digital | Custom Web Development by Tiana Horn',
   description: 'Professional custom website development specializing in e-commerce, non-profit, government compliance, and wedding industries. 7+ years of experience crafting digital experiences.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: '/favicon.ico',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: '/favicon.ico',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
+        url: '/favicon.svg',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/apple-touch-icon.png',
   },
 }
 

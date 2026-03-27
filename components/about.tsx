@@ -42,9 +42,9 @@ export function About() {
                 <ExternalLink className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity" />
               </Link>
             </div>
-            
+
             {/* Profile Picture */}
-              <div className="relative mb-8">
+              <div className="relative mb-8 mt-8">
               <div className="aspect-[4/5] w-full max-w-sm rounded-2xl bg-card border border-border overflow-hidden">
                 <img
                   src="https://favored-digital.github.io/favored.digital.github.io/headshot.jpg"
@@ -67,7 +67,7 @@ export function About() {
                 Lead Developer & Founder
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                With over 7 years of experience in custom web development, I specialize 
+                With over 7 years of experience in software engineering and web development, I specialize 
                 in creating digital experiences that not only look exceptional but also 
                 drive real business results. My approach combines technical excellence 
                 with a deep understanding of each industry I serve.
@@ -75,10 +75,9 @@ export function About() {
             </div>
 
             <p className="text-muted-foreground leading-relaxed">
-              I&apos;ve had the privilege of working for diverse companies and clients — from e-commerce 
-              brands looking to scale their online presence, to non-profit organizations 
-              seeking to amplify their impact, government agencies requiring compliance-focused 
-              solutions, and couples wanting to create memorable wedding experiences online.
+              I&apos;ve had the privilege of working as a software engineer for diverse companies and clients. My work spans e-commerce 
+              brands looking to scale their online presence, tools to organize non-profit operations and amplify their impact, and compliance-focused 
+              solutions for government agencies.
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
